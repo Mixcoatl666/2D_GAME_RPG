@@ -1,0 +1,41 @@
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Cache del Asset Store
+[Aa]sset[Ss]tore/
+
+# Archivos de configuración de VS/VSCode
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Archivos de Autogenerados por Unity
+*.svd
+*.pdb
+*.mdb
+
+# Otros
+*.apk
+*.aab
+*.unitypackage
+
+# Configuración de Rider
+.idea/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
