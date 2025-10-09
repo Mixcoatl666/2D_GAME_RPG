@@ -1,4 +1,5 @@
 # 2D Game RPG
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/676d8994-d1d3-400e-810a-09e7318a1784" />
 
 ## Tutoriales
 - [Link Tutorial 1](https://docs.google.com/document/d/1Y3L-UMlPcpY2dygquHi5vuAl_N_fn-tLjAQPjMjgIf4/edit?usp=sharing)
